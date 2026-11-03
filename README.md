@@ -105,7 +105,7 @@ The bot keeps only your Telegram user ID and your interest/favourite list. No em
 
 | Chat | Favourites | Group mode |
 |---|---|---|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
+| _https://github.com/SM-051/-VideoShareProBot/blob/main/Screenshot/Screenshot_20261103_232959.jpg | _https://github.com/SM-051/-VideoShareProBot/blob/main/Screenshot/Screenshot_20261103_233009.jpg_ | _add screenshot_ |
 
 Drop your images in a `screenshots/` folder and reference them here:
 
